@@ -15,7 +15,7 @@
 5. ❌ Closed PR [#24](https://github.com/szenius/set-timezone/pull/24) in [szenius/set-timezone](https://github.com/szenius/set-timezone)
 <!--END_SECTION:activity-->
 
-[![My Skills](https://skillicons.dev/icons?i=qt,raspberrypi&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,raspberrypi,arduino,bash,c,cpp,cmake,git,md&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Son Blog Gönderileri:
 <!-- ilkeraksoy.dev:START -->
