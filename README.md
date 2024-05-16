@@ -1,5 +1,11 @@
 ![Overview](https://raw.githubusercontent.com/bumb7ebee/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/bumb7ebee/github-stats-transparent/blob/output/generated/languages.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bumb7ebee/bumb7ebee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/ilkeraksoy/ilkyak/pull/1) in [ilkeraksoy/ilkyak](https://github.com/ilkeraksoy/ilkyak)
