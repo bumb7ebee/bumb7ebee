@@ -23,5 +23,5 @@ jobs:
           comment_tag_name: BLOG-POST-LIST
           feed_list: "https://ilkeraksoy.dev/atom.xml"
           tag_post_pre_newline: true
-          template: "- :writing_hand: [$title]($url) - ($date)$newline"
+          template: "$newline- :writing_hand: [$title]($url) - ($date)"
           date_format: "yyyy/mm/dd"
