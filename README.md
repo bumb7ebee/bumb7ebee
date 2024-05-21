@@ -188,8 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ilkeraksoy/ilkyak/pull/1) in [ilkeraksoy/ilkyak](https://github.com/ilkeraksoy/ilkyak)
-2. 💪 Opened PR [#384](https://github.com/probberechts/hexo-theme-cactus/pull/384) in [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus)
 <!--END_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
