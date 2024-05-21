@@ -1,21 +1,27 @@
-name: Update README
+name: Update GitHub activity
+
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 0 * * 0"
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
 jobs:
   build:
-    name: Update this repo's README with recent activity
+    name: Update the README.md with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
+          GH_USERNAME: ${GH_USERNAME}
+          # COMMIT_NAME: github-actions[bot]
+          # COMMIT_EMAIL:
+          COMMIT_MSG: "⚡ Update README.md with the recent activity"
+          EMPTY_COMMIT_MSG: "📄 Empty commit to keep workflow active after 60 days of no activity"
           MAX_LINES: 5
-          COMMIT_NAME: GitHub Activity Readme
+          TARGET_FILE: README.md
