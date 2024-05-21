@@ -20,8 +20,8 @@ jobs:
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_message: "📗 Update README.md with the latest blog posts"
           readme_path: README.md
-          comment_tag_name: "ilkeraksoy.dev"
+          comment_tag_name: BLOG-POST-LIST
           feed_list: "https://ilkeraksoy.dev/atom.xml"
           tag_post_pre_newline: true
-          template: '- :writing_hand: [$title]($url) - ($date)'
+          template: "- :writing_hand: [$title]($url) - ($date)"
           date_format: "yyyy/mm/dd"
