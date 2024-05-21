@@ -19,3 +19,5 @@ jobs:
           comment_tag_name: "ilkeraksoy.dev"
           commit_message: "Update README.md with the latest blog posts"
           feed_list: "https://ilkeraksoy.dev/atom.xml"
+          template: '- ["$title"]("$url") - ("$date")'
+          date_format: "yyyy/mm/dd"
