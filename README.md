@@ -201,3 +201,7 @@
 - :writing_hand: [Python Matplotlib Grafik Çizim Kütüphenesine Kısa Bir Bakış](https://ilkeraksoy.dev/python-matplotlib-grafik-cizim-kutuphanesine-kisa-bir-bakis/) - (2016/10/04)
 - :writing_hand: [Android Studio Kurulumu [Ubuntu]](https://ilkeraksoy.dev/android-studio-kurulumu-ubuntu/) - (2016/10/02)
 <!-- BLOG-POST-LIST:END -->
+
+---
+![Profile Last Update](https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update)
+![Profile Views](https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true)
