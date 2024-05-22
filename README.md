@@ -188,7 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
