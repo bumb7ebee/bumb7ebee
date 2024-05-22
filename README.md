@@ -205,6 +205,5 @@
 ---
 ![Profile Last Update](https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update)
 ![Profile Views](https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true)
-![GitHub Followers](https://img.shields.io/github/followers/bumb7ebee?style=flat&label=Followers)
 ![Profile Forks](https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat&label=Forks)
 ![Profile Stars](https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=flat&label=Stars)
