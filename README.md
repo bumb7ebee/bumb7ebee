@@ -188,6 +188,8 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#249](https://github.com/gautamkrishnar/blog-post-workflow/issues/249) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+<!--END_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
