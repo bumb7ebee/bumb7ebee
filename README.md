@@ -188,10 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/rahul-jha98/github-stats-transparent/issues/18) in [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)
-2. ❗ Opened issue [#17](https://github.com/rahul-jha98/github-stats-transparent/issues/17) in [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)
-3. ❗ Opened issue [#249](https://github.com/gautamkrishnar/blog-post-workflow/issues/249) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-<!--END_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
