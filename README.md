@@ -188,8 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/rahul-jha98/github-stats-transparent/issues/18) in [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)
-<!--END_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
