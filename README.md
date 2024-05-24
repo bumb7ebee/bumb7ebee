@@ -7,7 +7,7 @@
 📱 I make apps using Qt QML  
 🎓 I'm a graduate of the Computer Engineering department  
 🌐 You can see some of my projects on my [Github](https://github.com/bumb7ebee)  
-📘 I make contents on my [blog](https://ilkeraksoy.dev/)
+✍️ I scribble on my [blog](https://ilkeraksoy.dev/) in my free time
 
 ### 🙋‍♂️ Find me on
 <p align="left">
