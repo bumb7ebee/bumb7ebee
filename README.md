@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/bumb7ebee/bumb7ebee/blob/asset/images/bumblebee/1.gif"/></p>
 
-<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h2>
+<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif" width="28"/></h2>
 
 ### 📖 About me
 💻 I'm a Software Engineer  
