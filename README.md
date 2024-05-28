@@ -37,12 +37,16 @@
 ---
 
 <!-- WEATHER:START -->
-<h3>Hello from Rize province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
-<p>Currently, the weather is: <b>17°C, <img src="https://openweathermap.org/img/wn/04n.png" width="28" height="28" title= "Weather Icon" alt="Weather Icon"> <i>(overcast clouds)</i></b></p>
+<h3 align="center">Hello from Rize province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
+<p align="center">Currently, the weather is: <b>17°C, <img src="https://openweathermap.org/img/wn/04n.png" width="28" height="28" title= "Weather Icon" alt="Weather Icon"> <i>(overcast clouds)</i></b></p>
 <!-- WEATHER:END -->
-<p align="center"><br><a href="https://github.com/bumb7ebee/weather-profile-actions">Create your own here!</a></p>
+<p align="center"><a href="https://github.com/bumb7ebee/weather-profile-actions">Add your own weather to your profile!</a></p>
 
-![Profile Last Update](https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update)
-![Profile Views](https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true)
-![Profile Forks](https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat&label=Forks)
-![Profile Stars](https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=flat&label=Stars)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update">
+  <img src="https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true">
+  <img src="https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat&label=Forks">
+  <img src="https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=flat&label=Stars">
+</p>
