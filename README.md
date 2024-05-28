@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/bumb7ebee/bumb7ebee/assets/16045948/554fd175-f7a3-48fe-8a0e-636791688000"/></p>
+<p align="center"><img src="https://github.com/bumb7ebee/bumb7ebee/blob/asset/images/bumblebee/1.gif"/></p>
 
-<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img src="https://github.com/bumb7ebee/bumb7ebee/assets/16045948/6f623c0a-bb19-4fc4-8040-dfa32aa18bcf" width="28"> <img src="https://github.com/bumb7ebee/bumb7ebee/assets/16045948/e41e0704-a65d-4853-a80b-180e3d5642e2" width="28"/></h2>
+<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif" width="28"/></h2>
 
 ### 📖 About me
 💻 I'm a Software Engineer  
@@ -16,6 +16,175 @@
   <a href="https://stackoverflow.com/users/7497839/bumb7ebee"><img alt="Stack Overflow" title="Stack Overflow" src="https://img.shields.io/badge/-stackoverflow-f58225?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/Bumb7ebee"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-hackerrank-3a434f?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
+
+### 👨‍💻 Languages and Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=c&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=qt&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=qt&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cmake&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cmake&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cmake&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=bash&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=raspberrypi&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=raspberrypi&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bitbucket&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bitbucket&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=bitbucket&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=visualstudio&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscodium&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscodium&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=vscodium&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sublime&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sublime&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=sublime&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=md&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=notion&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=notion&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=notion&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=replit&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=replit&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=replit&theme=light"/>
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ubuntu&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ubuntu&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=light"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=windows&theme=light"/>
+</picture>
+
+### 📈 Github Stats
+![Overview](https://raw.githubusercontent.com/bumb7ebee/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/bumb7ebee/github-stats-transparent/blob/output/generated/languages.svg)
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
