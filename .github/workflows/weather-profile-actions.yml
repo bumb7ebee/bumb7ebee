@@ -1,0 +1,23 @@
+name: Update Weather
+on:
+  schedule: # run workflow automatically
+    - cron: '0 */3 * * *' # runs every three hours
+  # allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+permissions:
+  contents: write # to write the generated contents to the README
+jobs:
+  build:
+    name: Update this repo's README with recent weather
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: weather-profile-actions
+        uses: bumb7ebee/weather-profile-actions@main
+        with:
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          city-id: 740483
+          units: c
+          country-code: tr
+          readme-path: README.md
