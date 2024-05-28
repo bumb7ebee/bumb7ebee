@@ -204,6 +204,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<!-- WEATHER:START -->
+<!-- WEATHER:END -->
+<p align="center"><br><a href="https://github.com/bumb7ebee/weather-profile-actions">Create your own here!</a></p>
+
 ![Profile Last Update](https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update)
 ![Profile Views](https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true)
 ![Profile Forks](https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat&label=Forks)
