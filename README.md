@@ -188,10 +188,7 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0-alpha](https://github.com/bumb7ebee/weather-profile-actions/releases/tag/0.1.0) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
-2. ❗ Opened issue [#18](https://github.com/rahul-jha98/github-stats-transparent/issues/18) in [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)
-3. ❗ Opened issue [#17](https://github.com/rahul-jha98/github-stats-transparent/issues/17) in [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent)
-<!--END_SECTION:activity-->
+
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
