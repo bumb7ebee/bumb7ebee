@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: weather-profile-actions
-        uses: bumb7ebee/weather-profile-actions@v1.0.0
+        uses: bumb7ebee/weather-profile-actions@v1
         with:
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           city-id: 740483
