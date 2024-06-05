@@ -188,16 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--RECENT_ACTIVITY:start-->
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 6th, 2024, 1:34:48 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
