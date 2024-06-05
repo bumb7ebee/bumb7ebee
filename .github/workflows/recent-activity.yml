@@ -1,0 +1,29 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update the README.md with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: bumb7ebee
+          commit_name: github-actions[bot]
+          commit_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_msg: "⚡ Update README.md with the recent activity"
+          # EMPTY_COMMIT_MSG: "📄 Empty commit to keep workflow active after 60 days of no activity"
+          max_lines: 5
+          readme_file: README.md
