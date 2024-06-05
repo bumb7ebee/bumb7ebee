@@ -188,10 +188,6 @@
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/bumb7ebee/weather-profile-actions/releases/tag/v1.0.0) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
-2. 🚀 Published release [v0.1.0-alpha](https://github.com/bumb7ebee/weather-profile-actions/releases/tag/0.1.0) in [bumb7ebee/weather-profile-actions](https://github.com/bumb7ebee/weather-profile-actions)
-<!--END_SECTION:activity-->
-
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
