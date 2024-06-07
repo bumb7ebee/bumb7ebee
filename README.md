@@ -187,8 +187,7 @@
 ![Overview](https://raw.githubusercontent.com/bumb7ebee/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/bumb7ebee/github-stats-transparent/blob/output/generated/languages.svg)
 
 ### ⚡ Recent GitHub Activities
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
