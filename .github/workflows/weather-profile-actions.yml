@@ -1,11 +1,11 @@
 name: Update Weather
+
 on:
-  schedule: # run workflow automatically
-    - cron: '0 */3 * * *' # runs every three hours
-  # allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
 permissions:
-  contents: write # to write the generated contents to the README
+  contents: write
+
 jobs:
   build:
     name: Update this repo's README with recent weather
