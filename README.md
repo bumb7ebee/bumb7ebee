@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/bumb7ebee/bumb7ebee/blob/asset/images/bumblebee/1.gif"/></p>
 
-<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif" width="28"/></h2>
+<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> <img width="28" src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif"/></h2>
 
 ### 📖 About me
 💻 I'm a Software Engineer  
@@ -184,7 +184,8 @@
 </picture>
 
 ### 📈 Github Stats
-![Overview](https://raw.githubusercontent.com/bumb7ebee/github-stats-transparent/output/generated/overview.svg) ![Most Used Languages](https://github.com/bumb7ebee/github-stats-transparent/blob/output/generated/languages.svg)
+![Overview](https://github-readme-stats.vercel.app/api?username=bumb7ebee&theme=transparent&hide_border=true&show_icons=true&hide_rank=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bumb7ebee&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320)
 
 ### ⚡ Recent GitHub Activities
 <!--START_SECTION:activity-->
@@ -208,7 +209,7 @@
 ---
 
 <!-- WEATHER:START -->
-<h3 align="center">Hello from Rize province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
+<h3 align="center">Hello from Rize province of <img width="28" height="21" src="https://flagicons.lipis.dev/flags/4x3/tr.svg"/></h3>
 <p align="center">Currently, the weather is: <b>20°C, <img src="https://openweathermap.org/img/wn/04n.png" width="28" height="28"> <i>(overcast clouds)</i></b></p>
 <!-- WEATHER:END -->
 <p align="center"><a href="https://github.com/bumb7ebee/weather-profile-actions">Add your own weather to your profile!</a></p>
