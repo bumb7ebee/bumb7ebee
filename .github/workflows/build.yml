@@ -1,0 +1,80 @@
+name: Build README.md
+
+on:
+  schedule: # run workflow automatically
+    - cron: '0 */3 * * *' # runs every three hours
+  # allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Update this repo's README.md file with recent info
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Set the Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: jamesgeorge007/github-activity-readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: bumb7ebee
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "⚡ Update README.md with the recent activity"
+          EMPTY_COMMIT_MSG: "📄 Empty commit to keep workflow active after 60 days of no activity"
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+
+      - name: gautamkrishnar/blog-post-workflow
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          committer_username: github-actions[bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "📗 Update README.md with the latest blog posts"
+          readme_path: README.md
+          comment_tag_name: BLOG-POST-LIST
+          feed_list: "https://ilkeraksoy.dev/atom.xml"
+          tag_post_pre_newline: true
+          template: "$newline- ✍️ [$title]($url) - ($date)"
+          date_format: "yyyy/mm/dd"
+
+      - name: bumb7ebee/weather-profile-actions
+        uses: bumb7ebee/weather-profile-actions@v1
+        with:
+          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
+          city-id: 740483
+          units: c
+          country-code: tr
+          readme-path: README.md
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+      - name: Install dependencies
+        shell: bash
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/requirements.txt
+      - name: Run script
+        shell: bash
+        run: |
+          python -u src/main.py
+      - name: Push changes
+        shell: bash
+        run: |
+          git add README.md
+          git commit -m "⌚ Update README.md with the latest time" --allow-empty
+          git push origin main
