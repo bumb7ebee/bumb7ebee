@@ -220,8 +220,8 @@
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br>Last refresh: Saturday, Jun 8, 09:11 (GMT+0300)</p>
 <!-- TIME:END -->
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat&label=Last%20Update">
-  <img src="https://komarev.com/ghpvc/?username=bumb7ebee&style=flat&label=Profile+Views&abbreviated=true">
-  <img src="https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat&label=Forks">
-  <img src="https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=flat&label=Stars">
+  <img src="https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=for-the-badge&label=Last%20Update">
+  <img src="https://komarev.com/ghpvc/?username=bumb7ebee&style=for-the-badge&label=Profile+Views&abbreviated=true">
+  <img src="https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=for-the-badge&label=Forks">
+  <img src="https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=for-the-badge&label=Stars">
 </p>
