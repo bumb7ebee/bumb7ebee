@@ -206,7 +206,7 @@
 - ✍️ [Android Studio Kurulumu [Ubuntu]](https://ilkeraksoy.dev/android-studio-kurulumu-ubuntu/) - (2016/10/02)
 <!-- BLOG-POST-LIST:END -->
 
----
+<p align="center"><img src="assets/images/fading-line.gif"/></p>
 
 <!-- WEATHER:START -->
 <h3 align="center">Hello from Rize province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
@@ -214,7 +214,7 @@
 <!-- WEATHER:END -->
 <p align="center"><a href="https://github.com/bumb7ebee/weather-profile-actions">Add your own weather to your profile!</a></p>
 
----
+<p align="center"><img src="assets/images/fading-line.gif"/></p>
 
 <!-- TIME:START -->
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br>Last refresh: Sunday, Jun 9, 15:15 (GMT+0300)</p>
