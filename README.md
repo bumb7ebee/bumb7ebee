@@ -220,9 +220,9 @@
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br>Last refresh: Monday, Jun 10, 00:08 (GMT+0300)</p>
 <!-- TIME:END -->
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/bumb7ebee/bumb7ebee/build.yml?style=for-the-badge&label=README Build">
-  <img src="https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=for-the-badge&label=Last%20Update">
-  <img src="https://komarev.com/ghpvc/?username=bumb7ebee&style=for-the-badge&label=Profile+Views&abbreviated=true">
-  <img src="https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=for-the-badge&label=Forks">
-  <img src="https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=for-the-badge&label=Stars">
+  <img src="https://img.shields.io/github/actions/workflow/status/bumb7ebee/bumb7ebee/build.yml?style=flat-square&label=README Build">
+  <img src="https://img.shields.io/github/last-commit/bumb7ebee/bumb7ebee/main?style=flat-square&label=Last%20Update">
+  <img src="https://komarev.com/ghpvc/?username=bumb7ebee&style=flat-square&label=Profile+Views&abbreviated=true">
+  <img src="https://img.shields.io/github/forks/bumb7ebee/bumb7ebee?style=flat-square&label=Forks">
+  <img src="https://img.shields.io/github/stars/bumb7ebee/bumb7ebee?style=flat-square&label=Stars">
 </p>
