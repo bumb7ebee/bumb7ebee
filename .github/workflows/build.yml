@@ -36,19 +36,6 @@ jobs:
           MAX_LINES: 5
           TARGET_FILE: README.md
 
-      - name: gautamkrishnar/blog-post-workflow
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          committer_username: github-actions[bot]
-          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_message: "📗 Update README.md with the latest blog posts"
-          readme_path: README.md
-          comment_tag_name: BLOG-POST-LIST
-          feed_list: "https://ilkeraksoy.dev/atom.xml"
-          tag_post_pre_newline: true
-          template: "$newline- ✍️ [$title]($url) - ($date)"
-          date_format: "yyyy/mm/dd"
-
       - name: bumb7ebee/weather-profile-actions
         uses: bumb7ebee/weather-profile-actions@v1
         with:
