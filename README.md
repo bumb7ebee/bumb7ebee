@@ -198,12 +198,6 @@
 
 ### 📗 Recent Blog Posts (Turkish)
 <!-- BLOG-POST-LIST:START -->
-
-- ✍️ [JSON Nedir?](https://ilkeraksoy.dev/json-nedir/) - (2017/12/05)
-- ✍️ [Faydalı Linkler [Son güncelleme: 2017/11/29]](https://ilkeraksoy.dev/faydali-linkler/) - (2017/11/29)
-- ✍️ [Windows Kurulu Makinaya Ubuntu Kurulumu [Dual Boot]](https://ilkeraksoy.dev/windows-kurulu-makinaya-ubuntu-kurulumu-dual-boot/) - (2016/10/06)
-- ✍️ [Python Matplotlib Grafik Çizim Kütüphenesine Kısa Bir Bakış](https://ilkeraksoy.dev/python-matplotlib-grafik-cizim-kutuphanesine-kisa-bir-bakis/) - (2016/10/04)
-- ✍️ [Android Studio Kurulumu [Ubuntu]](https://ilkeraksoy.dev/android-studio-kurulumu-ubuntu/) - (2016/10/02)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img src="assets/images/fading-line.gif"/></p>
