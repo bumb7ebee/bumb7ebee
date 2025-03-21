@@ -3,9 +3,9 @@
 <h2 align="center">Hey there, I'm İlker - aka Bumb7ebee</h2>
 
 ### 📖 About me
-💻 I'm a Software Engineer  
-📱 I make apps using Qt QML  
-🎓 I'm a graduate of the Computer Engineering department  
+💻 I'm Software Engineer  
+📱 I make apps using Qt/QML  
+🎓 I'm graduate of the Computer Engineering department  
 🌐 You can see some of my projects on my [Github](https://github.com/bumb7ebee)  
 ✍️ I scribble on my [blog](https://ilkeraksoy.dev/) in my free time (Turkish)
 
