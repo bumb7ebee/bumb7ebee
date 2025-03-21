@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/images/bumblebee/1.gif"/></p>
 
-<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker Yasin AKSOY</a> - aka Bumb7ebee <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> <img width="28" src="https://emojis.slackmojis.com/emojis/images/1643514443/4246/blob-sunglasses.gif"/></h2>
+<h2 align="center">Hey there, I'm <a href="https://ilkeraksoy.dev/">İlker</a> - aka Bumb7ebee</h2>
 
 ### 📖 About me
 💻 I'm a Software Engineer  
