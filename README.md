@@ -204,7 +204,7 @@
 
 <!-- WEATHER:START -->
 <h3 align="center">Hello from Rize province of <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="28" height="21"/></h3>
-<p align="center">Currently, the weather is: <b>17°C, <img src="https://openweathermap.org/img/wn/04d.png" width="28" height="28"> <i>(overcast clouds)</i></b></p>
+<p align="center">Currently, the weather is: <b>18°C, <img src="https://openweathermap.org/img/wn/03d.png" width="28" height="28"> <i>(scattered clouds)</i></b></p>
 <!-- WEATHER:END -->
 <p align="center"><a href="https://github.com/bumb7ebee/weather-profile-actions">Add your own weather to your profile!</a></p>
 
